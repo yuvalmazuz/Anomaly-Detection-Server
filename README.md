@@ -29,7 +29,7 @@ controller- responsible to connect between the model and the view.
 * Choose two valid CSV files and click on upload. Afterwards, you'll be able to see the anomalies and each anomaly's properties on your screen.
 
 
-Documentation files are located in a folder named **docs**
+Documentation files are located in a folder named **docs**<br>
 Authors: Yuval Mazuz, Liran Bashari, Mika Tal, Doriel Fay.
 
 
